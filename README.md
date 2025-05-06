@@ -1,0 +1,2 @@
+# MNIST_BP_CNN
+使用BP网络与CNN识别MNIST手写数字
